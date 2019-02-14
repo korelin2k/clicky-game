@@ -2,61 +2,61 @@
     {
         "_id": 1,
         "name": "Cersei Lannister",
-        "image": "/images/cersei-lannister.jpg"
+        "image": "images/cersei-lannister.jpg"
     },
     {
         "_id": 2,
         "name": "Lord Baelish",
-        "image": "/images/lord-baelish.jpg"
+        "image": "images/lord-baelish.jpg"
     },
     {
         "_id": 3,
         "name": "Lord Varys",
-        "image": "/images/lord-varys.jpg"
+        "image": "images/lord-varys.jpg"
     },
     {
         "_id": 4,
         "name": "Samuel Tarly",
-        "image": "/images/samuel-tarly.jpg"
+        "image": "images/samuel-tarly.jpg"
     },
     {
         "_id": 5,
         "name": "Theon Greyjoy",
-        "image": "/images/theon-greyjoy.jpg"
+        "image": "images/theon-greyjoy.jpg"
     },
     {
         "_id": 6,
         "name": "Arya Stark",
-        "image": "/images/arya-stark.jpg"
+        "image": "images/arya-stark.jpg"
     },
     {
         "_id": 7,
         "name": "Daenerys Targaryen",
-        "image": "/images/daenerys-targaryen.png"
+        "image": "images/daenerys-targaryen.png"
     },
     {
         "_id": 8,
         "name": "Jaime Lannister",
-        "image": "/images/jaime-lannister.jpg"
+        "image": "images/jaime-lannister.jpg"
     },
     {
         "_id": 9,
         "name": "Jon Snow",
-        "image": "/images/jon-snow.jpeg"
+        "image": "images/jon-snow.jpeg"
     },
     {
         "_id": 10,
         "name": "Jorah Mormont",
-        "image": "/images/jorah-mormont.jpg"
+        "image": "images/jorah-mormont.jpg"
     },
     {
         "_id": 11,
         "name": "Sansa Stark",
-        "image": "/images/sansa-stark.jpg"
+        "image": "images/sansa-stark.jpg"
     },
     {
         "_id": 12,
         "name": "Tyrion Lannister",
-        "image": "/images/tyrion-lannister.png"
+        "image": "images/tyrion-lannister.png"
     }
 ]
